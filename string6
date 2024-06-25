@@ -1,0 +1,4 @@
+str="RAMESH MAJHI"
+print(str[:12])
+print(str[5:])
+print(str[3:-2])

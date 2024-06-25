@@ -1,0 +1,2 @@
+a="ramesh majhi"
+print(len(a))
